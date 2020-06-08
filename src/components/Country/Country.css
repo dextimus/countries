@@ -1,0 +1,28 @@
+.Country {
+  width: 280px;
+  height: 150px;
+  padding: 1rem;
+  margin: 1rem;
+  text-align: center;
+  border: 1px solid black;
+  box-shadow: 0 2px 3px grey;
+}
+
+/* p {
+  color: blue;
+} */
+
+/* span {
+  text-decoration: underline;
+} */
+
+.Country:hover {
+  cursor: pointer;
+  background-image: linear-gradient(
+    200deg,
+    transparent 0%,
+    transparent 50%,
+    white 100%
+  );
+  background-size: 300%;
+}

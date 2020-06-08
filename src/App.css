@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background: linear-gradient(to right, rgb(71, 255, 240), rgb(100, 207, 255));
+}
+.World {
+    font-family: 'Monoton', cursive;
+    font-size: 3rem;
+    color: rgb(9, 97, 109);
+    padding: 3.5rem;
+    margin-block-start: 0;
+}
+
+
+

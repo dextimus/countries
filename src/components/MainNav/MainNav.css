@@ -1,0 +1,18 @@
+.Main_L {
+  display: inline-block;
+  width: 20%;
+  font-size: 2rem;
+  font-weight: 700;
+  padding: 2rem;
+  border: 2px;
+  border-radius: 5px;
+  box-shadow: 0 6px 12px gray;
+  text-decoration: none;
+  text-align: center;
+  font-style: italic;
+}
+
+.Main_L:hover {
+  background: linear-gradient(rgb(219, 236, 241), rgb(64, 162, 207));
+  transform: translateY(0.4rem);
+}

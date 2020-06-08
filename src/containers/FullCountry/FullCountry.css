@@ -1,0 +1,36 @@
+.FullCountry {
+  padding: 1rem;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+p {
+  color: navy;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+span {
+  color: black;
+  text-decoration: underline;
+}
+
+.Back {
+  float: left;
+  margin-top: -50px;
+}
+
+.Link {
+  font-size: 1rem;
+  color: rgb(9, 97, 109);
+  margin-left: 2rem;
+  font-style: italic;
+}
+
+.Link:hover,
+.Link:active {
+  color: rgb(158, 158, 158);
+  text-decoration: underline;
+}
